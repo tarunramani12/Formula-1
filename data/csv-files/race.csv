@@ -1,0 +1,2 @@
+id,round,date,time,grandPrixId,officialName,qualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,freePractice1Date,freePractice1Time,freePractice2Date,freePractice2Time,freePractice3Date,freePractice3Time,qualifyingDate,qualifyingTime
+1102,1,2024-03-02,900,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,KNOCKOUT,bahrain,RACE,CLOCKWISE,5.412,15,57,308.238,2024-02-29,690,2024-02-29,900,2024-03-01,750,2024-03-01,960
