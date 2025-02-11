@@ -1,0 +1,14 @@
+id: 952
+round: 17
+date: 2016-10-09
+grandPrixId: japan
+officialName: 2016 Formula 1 Emirates Japanese Grand Prix
+qualifyingFormat: KNOCKOUT
+circuitId: suzuka
+circuitType: RACE
+direction: CLOCKWISE
+courseLength: 5.807
+turns: 18
+laps: 53
+distance: 307.471
+constructorsChampionshipDecider: true

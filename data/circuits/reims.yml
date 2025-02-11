@@ -1,0 +1,12 @@
+id: reims
+name: Reims-Gueux
+fullName: Reims-Gueux
+previousNames:
+type: ROAD
+direction: CLOCKWISE
+placeName: Reims
+countryId: france
+latitude: 49.254075
+longitude: 3.930561
+length: 8.302
+turns: 7

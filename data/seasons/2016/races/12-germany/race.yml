@@ -1,0 +1,13 @@
+id: 947
+round: 12
+date: 2016-07-31
+grandPrixId: germany
+officialName: Formula 1 Grosser Preis von Deutschland 2016
+qualifyingFormat: KNOCKOUT
+circuitId: hockenheimring
+circuitType: RACE
+direction: CLOCKWISE
+courseLength: 4.574
+turns: 17
+laps: 67
+distance: 306.458

@@ -1,0 +1,13 @@
+id: 502
+round: 2
+date: 1991-03-24
+grandPrixId: brazil
+officialName: Grande Prêmio do Brasil 1991
+qualifyingFormat: TWO_SESSION
+circuitId: interlagos
+circuitType: RACE
+direction: ANTI_CLOCKWISE
+courseLength: 4.325
+turns: 15
+laps: 71
+distance: 307.075

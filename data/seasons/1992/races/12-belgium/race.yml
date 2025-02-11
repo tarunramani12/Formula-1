@@ -1,0 +1,14 @@
+id: 528
+round: 12
+date: 1992-08-30
+grandPrixId: belgium
+officialName: 1992 Belgian Grand Prix
+qualifyingFormat: TWO_SESSION
+circuitId: spa-francorchamps
+circuitType: RACE
+direction: CLOCKWISE
+courseLength: 6.940
+turns: 19
+laps: 44
+distance: 305.360
+constructorsChampionshipDecider: true

@@ -1,0 +1,12 @@
+id: monza
+name: Monza
+fullName: Autodromo Nazionale Monza
+previousNames:
+type: RACE
+direction: CLOCKWISE
+placeName: Monza
+countryId: italy
+latitude: 45.620556
+longitude: 9.289444
+length: 5.793
+turns: 11

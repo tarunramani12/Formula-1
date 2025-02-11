@@ -1,0 +1,17 @@
+id: 630
+round: 16
+date: 1998-11-01
+grandPrixId: japan
+officialName: 1998 Fuji Television Japanese Grand Prix
+qualifyingFormat: ONE_SESSION
+circuitId: suzuka
+circuitType: RACE
+direction: CLOCKWISE
+courseLength: 5.860
+turns: 18
+laps: 51
+distance: 298.860
+scheduledLaps: 53
+scheduledDistance: 310.580
+driversChampionshipDecider: true
+constructorsChampionshipDecider: true
