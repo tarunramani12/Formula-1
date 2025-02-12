@@ -1,0 +1,21 @@
+time,constructorId,gridPosition,engineManufacturerId,timePenalty,interval,laps,gap,driverId,reasonRetired,position,points,tyreManufacturerId,driverNumber
+1:30:55.739,mercedes,1,mercedes,,,71,,valtteri-bottas,,1,25,pirelli,77
+1:30:58.439,ferrari,7,ferrari,,+2.700,71,+2.700,charles-leclerc,,2,18,pirelli,16
+1:31:01.230,mclaren,3,renault,,+2.791,71,+5.491,lando-norris,,3,16,pirelli,4
+1:31:01.428,mercedes,5,mercedes,5.000,+0.198,71,+5.689,lewis-hamilton,,4,12,pirelli,44
+1:31:04.642,mclaren,8,renault,,+3.214,71,+8.903,carlos-sainz-jr,,5,10,pirelli,55
+1:31:10.831,racing-point,6,bwt-mercedes,5.000,+6.189,71,+15.092,sergio-perez,,6,8,pirelli,11
+1:31:12.421,alphatauri,12,honda,,+1.590,71,+16.682,pierre-gasly,,7,6,pirelli,10
+1:31:13.195,renault,14,renault,,+0.774,71,+17.456,esteban-ocon,,8,4,pirelli,31
+1:31:16.885,alfa-romeo,18,ferrari,,+3.690,71,+21.146,antonio-giovinazzi,,9,2,pirelli,99
+1:31:20.284,ferrari,11,ferrari,,+3.399,71,+24.545,sebastian-vettel,,10,1,pirelli,5
+1:31:27.389,williams,20,mercedes,,+7.105,71,+31.650,nicholas-latifi,,11,,pirelli,6
+,alphatauri,13,honda,,,69,,daniil-kvyat,Suspension,12,,pirelli,26
+,red-bull,4,honda,,,67,,alexander-albon,Electronics,13,,pirelli,23
+,alfa-romeo,19,ferrari,,,53,,kimi-raikkonen,Wheel,DNF,,pirelli,7
+,williams,17,mercedes,,,49,,george-russell,Fuel pressure,DNF,,pirelli,63
+,haas,15,ferrari,,,49,,romain-grosjean,Brakes,DNF,,pirelli,8
+,haas,16,ferrari,,,24,,kevin-magnussen,Brakes,DNF,,pirelli,20
+,racing-point,9,bwt-mercedes,,,20,,lance-stroll,Engine,DNF,,pirelli,18
+,renault,10,renault,,,17,,daniel-ricciardo,Overheating,DNF,,pirelli,3
+,red-bull,2,honda,,,11,,max-verstappen,Electronics,DNF,,pirelli,33

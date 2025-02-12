@@ -1,0 +1,17 @@
+time,constructorId,engineManufacturerId,interval,gap,driverId,position,tyreManufacturerId,lap,driverNumber
+1:14.165,mercedes,mercedes,,,lewis-hamilton,1,pirelli,63,44
+1:14.569,red-bull,honda-rbpt,+0.404,+0.404,max-verstappen,2,pirelli,58,1
+1:14.718,kick-sauber,ferrari,+0.149,+0.553,guanyu-zhou,3,pirelli,75,24
+1:14.720,rb,honda-rbpt,+0.002,+0.555,yuki-tsunoda,4,pirelli,77,22
+1:14.726,ferrari,ferrari,+0.006,+0.561,carlos-sainz-jr,5,pirelli,62,55
+1:15.162,ferrari,ferrari,+0.436,+0.997,charles-leclerc,6,pirelli,71,16
+1:15.228,mercedes,mercedes,+0.066,+1.063,george-russell,7,pirelli,73,63
+1:15.525,williams,mercedes,+0.297,+1.360,logan-sargeant,8,pirelli,62,2
+1:15.625,alpine,renault,+0.100,+1.460,pierre-gasly,9,pirelli,77,10
+1:15.742,mclaren,mercedes,+0.117,+1.577,lando-norris,10,pirelli,64,4
+1:16.281,mclaren,mercedes,+0.539,+2.116,oscar-piastri,11,pirelli,73,81
+1:16.561,kick-sauber,ferrari,+0.280,+2.396,valtteri-bottas,12,pirelli,17,77
+1:16.710,aston-martin,mercedes,+0.149,+2.545,lance-stroll,13,pirelli,59,18
+1:17.060,williams,mercedes,+0.350,+2.895,alexander-albon,14,pirelli,77,23
+1:17.172,rb,honda-rbpt,+0.112,+3.007,daniel-ricciardo,15,pirelli,46,3
+1:17.939,aston-martin,mercedes,+0.767,+3.774,fernando-alonso,16,pirelli,68,14

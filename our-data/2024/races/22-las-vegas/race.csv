@@ -1,0 +1,2 @@
+id,round,date,time,grandPrixId,officialName,qualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,freePractice1Date,freePractice1Time,freePractice2Date,freePractice2Time,freePractice3Date,freePractice3Time,qualifyingDate,qualifyingTime,driversChampionshipDecider
+1123,22,2024-11-24,06:00,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,KNOCKOUT,las-vegas,STREET,ANTI_CLOCKWISE,6.201,17,50,309.958,2024-11-22,02:30,2024-11-22,06:00,2024-11-23,02:30,2024-11-23,06:00,True

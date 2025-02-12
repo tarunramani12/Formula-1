@@ -1,0 +1,2 @@
+id,round,date,time,grandPrixId,officialName,qualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,freePractice1Date,freePractice1Time,freePractice2Date,freePractice2Time,freePractice3Date,freePractice3Time,qualifyingDate,qualifyingTime
+1110,9,2024-06-09,1080,canada,Formula 1 Grand Prix du Canada 2024,KNOCKOUT,montreal,STREET,CLOCKWISE,4.361,14,70,305.27,2024-06-07,1050,2024-06-07,1260,2024-06-08,990,2024-06-08,1200

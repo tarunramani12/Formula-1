@@ -1,0 +1,2 @@
+id,round,date,time,grandPrixId,officialName,qualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,freePractice1Date,freePractice1Time,freePractice2Date,freePractice2Time,freePractice3Date,freePractice3Time,qualifyingDate,qualifyingTime
+1117,16,2024-09-01,780,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,KNOCKOUT,monza,RACE,CLOCKWISE,5.793,11,53,306.72,2024-08-30,690,2024-08-30,900,2024-08-31,630,2024-08-31,840

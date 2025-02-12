@@ -1,0 +1,21 @@
+time,constructorId,gridPosition,engineManufacturerId,timePenalty,interval,laps,gap,driverId,reasonRetired,position,points,tyreManufacturerId,driverNumber
+1:35:49.641,mercedes,2,mercedes,,,60,,lewis-hamilton,,1,25,pirelli,44
+1:35:54.111,red-bull,3,honda,,+4.470,60,+4.470,max-verstappen,,2,19,pirelli,33
+1:36:04.254,renault,6,renault,,+10.143,60,+14.613,daniel-ricciardo,,3,15,pirelli,3
+1:36:05.711,racing-point,9,bwt-mercedes,,+1.457,60,+16.070,sergio-perez,,4,12,pirelli,11
+1:36:11.546,mclaren,10,renault,,+5.835,60,+21.905,carlos-sainz-jr,,5,10,pirelli,55
+1:36:12.407,alphatauri,12,honda,,+0.861,60,+22.766,pierre-gasly,,6,8,pirelli,10
+1:36:20.455,ferrari,4,ferrari,,+8.048,60,+30.814,charles-leclerc,,7,6,pirelli,16
+1:36:22.237,racing-point,20,bwt-mercedes,,+1.782,60,+32.596,nico-hulkenberg,,8,4,pirelli,27
+1:36:28.722,haas,16,ferrari,,+6.485,60,+39.081,romain-grosjean,,9,2,pirelli,8
+1:36:29.676,alfa-romeo,14,ferrari,,+0.954,60,+40.035,antonio-giovinazzi,,10,1,pirelli,99
+1:36:30.451,ferrari,11,ferrari,,+0.775,60,+40.810,sebastian-vettel,,11,,pirelli,5
+1:36:31.117,alfa-romeo,19,ferrari,,+0.666,60,+41.476,kimi-raikkonen,,12,,pirelli,7
+1:36:39.226,haas,15,ferrari,,+8.109,60,+49.585,kevin-magnussen,,13,,pirelli,20
+1:36:44.090,williams,18,mercedes,,+4.864,60,+54.449,nicholas-latifi,,14,,pirelli,6
+1:36:45.229,alphatauri,13,honda,,+1.139,60,+55.588,daniil-kvyat,,15,,pirelli,26
+,mclaren,8,renault,,,42,,lando-norris,Power unit,DNF,,pirelli,4
+,red-bull,5,honda,5.000,,23,,alexander-albon,Radiator,DNF,,pirelli,23
+,renault,7,renault,,,22,,esteban-ocon,Hydraulics,DNF,,pirelli,31
+,mercedes,1,mercedes,,,18,,valtteri-bottas,Power unit,DNF,,pirelli,77
+,williams,17,mercedes,,,12,,george-russell,Collision,DNF,,pirelli,63

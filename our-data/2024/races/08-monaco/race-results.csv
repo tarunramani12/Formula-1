@@ -1,0 +1,21 @@
+time,constructorId,gridPosition,engineManufacturerId,timePenalty,interval,laps,gap,driverId,reasonRetired,position,points,tyreManufacturerId,driverNumber
+2:23:15.554,ferrari,1,ferrari,,,78,,charles-leclerc,,1,25,pirelli,16
+2:23:22.706,mclaren,2,mercedes,,+7.152,78,+7.152,oscar-piastri,,2,18,pirelli,81
+2:23:23.139,ferrari,3,ferrari,,+0.433,78,+7.585,carlos-sainz-jr,,3,15,pirelli,55
+2:23:24.204,mclaren,4,mercedes,,+1.065,78,+8.650,lando-norris,,4,12,pirelli,4
+2:23:28.863,mercedes,5,mercedes,,+4.659,78,+13.309,george-russell,,5,10,pirelli,63
+2:23:29.407,red-bull,6,honda-rbpt,,+0.544,78,+13.853,max-verstappen,,6,8,pirelli,1
+2:23:30.462,mercedes,7,mercedes,,+1.055,78,+14.908,lewis-hamilton,,7,7,pirelli,44
+,rb,8,honda-rbpt,,,77,+1 lap,yuki-tsunoda,,8,4,pirelli,22
+,williams,9,mercedes,,,77,+1 lap,alexander-albon,,9,2,pirelli,23
+,alpine,10,renault,,,77,+1 lap,pierre-gasly,,10,1,pirelli,10
+,aston-martin,14,mercedes,,,76,+2 laps,fernando-alonso,,11,,pirelli,14
+,rb,12,honda-rbpt,,,76,+2 laps,daniel-ricciardo,,12,,pirelli,3
+,kick-sauber,17,ferrari,,,76,+2 laps,valtteri-bottas,,13,,pirelli,77
+,aston-martin,13,mercedes,,,76,+2 laps,lance-stroll,,14,,pirelli,18
+,williams,15,mercedes,,,76,+2 laps,logan-sargeant,,15,,pirelli,2
+,kick-sauber,18,ferrari,,,76,+2 laps,guanyu-zhou,,16,,pirelli,24
+,alpine,11,renault,,,0,,esteban-ocon,Collision damage,DNF,,pirelli,31
+,red-bull,16,honda-rbpt,,,0,,sergio-perez,Collision,DNF,,pirelli,11
+,haas,19,ferrari,,,0,,nico-hulkenberg,Collision,DNF,,pirelli,27
+,haas,20,ferrari,,,0,,kevin-magnussen,Collision,DNF,,pirelli,20

@@ -1,0 +1,2 @@
+id,round,date,grandPrixId,officialName,qualifyingFormat,sprintQualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,driversChampionshipDecider
+1096,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,KNOCKOUT,SPRINT_SHOOTOUT,lusail,RACE,CLOCKWISE,5.419,16,57,308.611,True

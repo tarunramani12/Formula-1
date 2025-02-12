@@ -1,0 +1,2 @@
+id,round,date,grandPrixId,officialName,qualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,scheduledLaps,scheduledDistance,driversChampionshipDecider
+1075,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,KNOCKOUT,suzuka,RACE,CLOCKWISE,5.807,18,28,162.296,53,307.471,True

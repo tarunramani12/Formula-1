@@ -1,0 +1,21 @@
+time,constructorId,gridPosition,engineManufacturerId,timePenalty,interval,laps,gap,driverId,reasonRetired,position,points,tyreManufacturerId,driverNumber
+1:30:05.395,red-bull,1,honda,,,72,,max-verstappen,,1,25,pirelli,33
+1:30:26.327,mercedes,2,mercedes,,+20.932,72,+20.932,lewis-hamilton,,2,19,pirelli,44
+1:31:01.855,mercedes,3,mercedes,,+35.528,72,+56.460,valtteri-bottas,,3,15,pirelli,77
+,alphatauri,4,honda,,,71,+1 lap,pierre-gasly,,4,12,pirelli,10
+,ferrari,5,ferrari,,,71,+1 lap,charles-leclerc,,5,10,pirelli,16
+,alpine,9,renault,,,71,+1 lap,fernando-alonso,,6,8,pirelli,14
+,ferrari,6,ferrari,,,71,+1 lap,carlos-sainz-jr,,7,6,pirelli,55
+,red-bull,PL,honda,,,71,+1 lap,sergio-perez,,8,4,pirelli,11
+,alpine,8,renault,,,71,+1 lap,esteban-ocon,,9,2,pirelli,31
+,mclaren,13,mercedes,,,71,+1 lap,lando-norris,,10,1,pirelli,4
+,mclaren,10,mercedes,,,71,+1 lap,daniel-ricciardo,,11,,pirelli,3
+,aston-martin,12,mercedes,,,70,+2 laps,lance-stroll,,12,,pirelli,18
+,aston-martin,15,mercedes,,,70,+2 laps,sebastian-vettel,,13,,pirelli,5
+,alfa-romeo,7,ferrari,,,70,+2 laps,antonio-giovinazzi,,14,,pirelli,99
+,alfa-romeo,16,ferrari,,,70,+2 laps,robert-kubica,,15,,pirelli,88
+,williams,PL,mercedes,,,70,+2 laps,nicholas-latifi,,16,,pirelli,6
+,williams,11,mercedes,,,69,,george-russell,Battery,17,,pirelli,63
+,haas,17,ferrari,,,69,+3 laps,mick-schumacher,,18,,pirelli,47
+,alphatauri,14,honda,,,48,,yuki-tsunoda,Engine,DNF,,pirelli,22
+,haas,18,ferrari,,,41,,nikita-mazepin,Water leak,DNF,,pirelli,9

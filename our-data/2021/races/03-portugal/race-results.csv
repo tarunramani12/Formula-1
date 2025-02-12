@@ -1,0 +1,21 @@
+time,constructorId,gridPosition,engineManufacturerId,timePenalty,interval,laps,gap,driverId,reasonRetired,position,points,tyreManufacturerId,driverNumber
+1:34:31.421,mercedes,2,mercedes,,,66,,lewis-hamilton,,1,25,pirelli,44
+1:35:00.569,red-bull,3,honda,,+29.148,66,+29.148,max-verstappen,,2,18,pirelli,33
+1:35:04.951,mercedes,1,mercedes,,+4.382,66,+33.530,valtteri-bottas,,3,16,pirelli,77
+1:35:11.156,red-bull,4,honda,,+6.205,66,+39.735,sergio-perez,,4,12,pirelli,11
+1:35:22.790,mclaren,7,mercedes,,+11.634,66,+51.369,lando-norris,,5,10,pirelli,4
+1:35:27.202,ferrari,8,ferrari,,+4.412,66,+55.781,charles-leclerc,,6,8,pirelli,16
+1:35:35.170,alpine,6,renault,,+7.968,66,+1:03.749,esteban-ocon,,7,6,pirelli,31
+1:35:36.229,alpine,13,renault,,+1.059,66,+1:04.808,fernando-alonso,,8,4,pirelli,14
+1:35:46.790,mclaren,16,mercedes,,+10.561,66,+1:15.369,daniel-ricciardo,,9,2,pirelli,3
+1:35:47.884,alphatauri,9,honda,,+1.094,66,+1:16.463,pierre-gasly,,10,1,pirelli,10
+1:35:50.376,ferrari,5,ferrari,,+2.492,66,+1:18.955,carlos-sainz-jr,,11,,pirelli,55
+,alfa-romeo,12,ferrari,,,65,+1 lap,antonio-giovinazzi,,12,,pirelli,99
+,aston-martin,10,mercedes,,,65,+1 lap,sebastian-vettel,,13,,pirelli,5
+,aston-martin,17,mercedes,,,65,+1 lap,lance-stroll,,14,,pirelli,18
+,alphatauri,14,honda,,,65,+1 lap,yuki-tsunoda,,15,,pirelli,22
+,williams,11,mercedes,,,65,+1 lap,george-russell,,16,,pirelli,63
+,haas,19,ferrari,,,64,+2 laps,mick-schumacher,,17,,pirelli,47
+,williams,18,mercedes,,,64,+2 laps,nicholas-latifi,,18,,pirelli,6
+,haas,20,ferrari,5.000,,64,+2 laps,nikita-mazepin,,19,,pirelli,9
+,alfa-romeo,15,ferrari,,,1,,kimi-raikkonen,Collision,DNF,,pirelli,7

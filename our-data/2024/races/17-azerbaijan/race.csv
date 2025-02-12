@@ -1,0 +1,2 @@
+id,round,date,time,grandPrixId,officialName,qualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,freePractice1Date,freePractice1Time,freePractice2Date,freePractice2Time,freePractice3Date,freePractice3Time,qualifyingDate,qualifyingTime
+1118,17,2024-09-15,660,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,KNOCKOUT,baku,STREET,ANTI_CLOCKWISE,6.003,20,51,306.049,2024-09-13,09:30,2024-09-13,780,2024-09-14,08:30,2024-09-14,720

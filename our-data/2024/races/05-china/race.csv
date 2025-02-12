@@ -1,0 +1,2 @@
+id,round,date,time,grandPrixId,officialName,qualifyingFormat,sprintQualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,freePractice1Date,freePractice1Time,sprintQualifyingDate,sprintQualifyingTime,sprintRaceDate,sprintRaceTime,qualifyingDate,qualifyingTime
+1106,5,2024-04-21,07:00,china,Formula 1 Lenovo Chinese Grand Prix 2024,KNOCKOUT,SPRINT_SHOOTOUT,shanghai,RACE,CLOCKWISE,5.451,16,56,305.066,2024-04-19,03:30,2024-04-19,07:30,2024-04-20,03:00,2024-04-20,07:00

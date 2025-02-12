@@ -1,0 +1,2 @@
+id,round,date,time,grandPrixId,officialName,qualifyingFormat,sprintQualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,freePractice1Date,freePractice1Time,sprintQualifyingDate,sprintQualifyingTime,sprintRaceDate,sprintRaceTime,qualifyingDate,qualifyingTime
+1112,11,2024-06-30,780,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,KNOCKOUT,SPRINT_SHOOTOUT,spielberg,RACE,CLOCKWISE,4.318,10,71,306.452,2024-06-28,630,2024-06-28,870,2024-06-29,600,2024-06-29,840
