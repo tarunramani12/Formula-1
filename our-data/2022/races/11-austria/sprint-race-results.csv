@@ -1,0 +1,21 @@
+time,constructorId,gridPosition,engineManufacturerId,timePenalty,interval,laps,gap,driverId,reasonRetired,position,points,tyreManufacturerId,driverNumber
+26:30.059,red-bull,1,rbpt,,,23,,max-verstappen,,1,8,pirelli,1
+26:31.734,ferrari,2,ferrari,,+1.675,23,+1.675,charles-leclerc,,2,7,pirelli,16
+26:35.703,ferrari,3,ferrari,,+3.969,23,+5.644,carlos-sainz-jr,,3,6,pirelli,55
+26:43.488,mercedes,4,mercedes,,+7.785,23,+13.429,george-russell,,4,5,pirelli,63
+26:48.361,red-bull,13,rbpt,,+4.873,23,+18.302,sergio-perez,,5,4,pirelli,11
+27:01.091,alpine,5,renault,,+12.730,23,+31.032,esteban-ocon,,6,3,pirelli,31
+27:04.598,haas,6,ferrari,,+3.507,23,+34.539,kevin-magnussen,,7,2,pirelli,20
+27:05.506,mercedes,9,mercedes,,+0.908,23,+35.447,lewis-hamilton,,8,1,pirelli,44
+27:07.222,haas,7,ferrari,,+1.716,23,+37.163,mick-schumacher,,9,,pirelli,47
+27:07.616,alfa-romeo,12,ferrari,,+0.394,23,+37.557,valtteri-bottas,,10,,pirelli,77
+27:08.639,mclaren,15,mercedes,,+1.023,23,+38.580,lando-norris,,11,,pirelli,4
+27:09.797,mclaren,16,mercedes,,+1.158,23,+39.738,daniel-ricciardo,,12,,pirelli,3
+27:18.300,aston-martin,17,mercedes,,+8.503,23,+48.241,lance-stroll,,13,,pirelli,18
+27:20.812,alfa-romeo,PL,ferrari,,+2.512,23,+50.753,guanyu-zhou,,14,,pirelli,24
+27:22.184,alphatauri,10,rbpt,,+1.372,23,+52.125,pierre-gasly,,15,,pirelli,10
+27:22.471,williams,11,mercedes,5.000,+0.287,23,+52.412,alexander-albon,,16,,pirelli,23
+27:24.615,alphatauri,14,rbpt,,+2.144,23,+54.556,yuki-tsunoda,,17,,pirelli,22
+27:38.753,williams,19,mercedes,,+14.138,23,+1:08.694,nicholas-latifi,,18,,pirelli,6
+,aston-martin,20,mercedes,,,21,,sebastian-vettel,Collision damage,19,,pirelli,5
+,alpine,,renault,,,,,fernando-alonso,Electrical,DNS,,pirelli,14

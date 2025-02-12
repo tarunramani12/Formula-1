@@ -1,0 +1,6 @@
+constructorId,engineManufacturerId,percentage,driverId,position,tyreManufacturerId,driverNumber
+alfa-romeo,ferrari,42.8,kimi-raikkonen,1,pirelli,7
+red-bull,honda,21.5,sergio-perez,2,pirelli,11
+mercedes,mercedes,10.9,lewis-hamilton,3,pirelli,44
+red-bull,honda,7.6,max-verstappen,4,pirelli,33
+mercedes,mercedes,4.9,valtteri-bottas,5,pirelli,77

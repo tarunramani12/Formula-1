@@ -1,0 +1,2 @@
+id,round,date,time,grandPrixId,officialName,qualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,freePractice1Date,freePractice1Time,freePractice2Date,freePractice2Time,freePractice3Date,freePractice3Time,qualifyingDate,qualifyingTime
+1104,3,2024-03-24,04:00,australia,Formula 1 Rolex Australian Grand Prix 2024,KNOCKOUT,melbourne,STREET,CLOCKWISE,5.278,14,58,306.124,2024-03-22,01:30,2024-03-22,05:00,2024-03-23,01:30,2024-03-23,05:00

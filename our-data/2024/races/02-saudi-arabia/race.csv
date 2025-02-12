@@ -1,0 +1,2 @@
+id,round,date,time,grandPrixId,officialName,qualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,freePractice1Date,freePractice1Time,freePractice2Date,freePractice2Time,freePractice3Date,freePractice3Time,qualifyingDate,qualifyingTime
+1103,2,2024-03-09,1020,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2024,KNOCKOUT,jeddah,STREET,ANTI_CLOCKWISE,6.174,27,50,308.45,2024-03-07,810,2024-03-07,1020,2024-03-08,810,2024-03-08,1020

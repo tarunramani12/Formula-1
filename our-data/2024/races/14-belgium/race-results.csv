@@ -1,0 +1,21 @@
+time,constructorId,gridPosition,engineManufacturerId,timePenalty,interval,laps,gap,driverId,reasonRetired,position,points,tyreManufacturerId,driverNumber
+1:19:57.566,mercedes,3,mercedes,,+0.526,44,+0.526,lewis-hamilton,,1,25,pirelli,44
+1:19:58.213,mclaren,5,mercedes,,+0.647,44,+1.173,oscar-piastri,,2,18,pirelli,81
+1:20:05.589,ferrari,1,ferrari,,+7.376,44,+8.549,charles-leclerc,,3,15,pirelli,16
+1:20:06.266,red-bull,11,honda-rbpt,,+0.677,44,+9.226,max-verstappen,,4,12,pirelli,1
+1:20:06.890,mclaren,4,mercedes,,+0.624,44,+9.850,lando-norris,,5,10,pirelli,4
+1:20:16.835,ferrari,7,ferrari,,+9.945,44,+19.795,carlos-sainz-jr,,6,8,pirelli,55
+1:20:40.235,red-bull,2,honda-rbpt,,+23.400,44,+43.195,sergio-perez,,7,7,pirelli,11
+1:20:47.003,aston-martin,8,mercedes,,+6.768,44,+49.963,fernando-alonso,,8,4,pirelli,14
+1:20:49.592,alpine,9,renault,,+2.589,44,+52.552,esteban-ocon,,9,2,pirelli,31
+1:20:51.966,rb,13,honda-rbpt,,+2.374,44,+54.926,daniel-ricciardo,,10,1,pirelli,3
+1:21:00.051,aston-martin,15,mercedes,,+8.085,44,+1:03.011,lance-stroll,,11,,pirelli,18
+1:21:00.691,williams,10,mercedes,,+0.640,44,+1:03.651,alexander-albon,,12,,pirelli,23
+1:21:01.405,alpine,12,renault,,+0.714,44,+1:04.365,pierre-gasly,,13,,pirelli,10
+1:21:03.671,haas,17,ferrari,,+2.266,44,+1:06.631,kevin-magnussen,,14,,pirelli,20
+1:21:07.678,kick-sauber,14,ferrari,,+4.007,44,+1:10.638,valtteri-bottas,,15,,pirelli,77
+1:21:13.777,rb,20,honda-rbpt,,+6.099,44,+1:16.737,yuki-tsunoda,,16,,pirelli,22
+1:21:23.097,williams,18,mercedes,,+9.320,44,+1:26.057,logan-sargeant,,17,,pirelli,2
+1:21:25.873,haas,16,ferrari,,+2.776,44,+1:28.833,nico-hulkenberg,,18,,pirelli,27
+,kick-sauber,19,ferrari,,,5,,guanyu-zhou,Hydraulics,DNF,,pirelli,24
+1:19:57.040,mercedes,6,mercedes,,,44,,george-russell,Car underweight,DSQ,,pirelli,63

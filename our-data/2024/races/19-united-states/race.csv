@@ -1,0 +1,2 @@
+id,round,date,time,grandPrixId,officialName,qualifyingFormat,sprintQualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,freePractice1Date,freePractice1Time,sprintQualifyingDate,sprintQualifyingTime,sprintRaceDate,sprintRaceTime,qualifyingDate,qualifyingTime
+1120,19,2024-10-20,1140,united-states,Formula 1 Pirelli United States Grand Prix 2024,KNOCKOUT,SPRINT_SHOOTOUT,austin,RACE,ANTI_CLOCKWISE,5.513,20,56,308.405,2024-10-18,1050,2024-10-18,1290,2024-10-19,1080,2024-10-19,1320

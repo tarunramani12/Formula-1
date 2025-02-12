@@ -1,0 +1,21 @@
+time,constructorId,gridPosition,engineManufacturerId,timePenalty,interval,laps,gap,driverId,reasonRetired,position,points,tyreManufacturerId,driverNumber
+1:20:27.511,red-bull,7,rbpt,,,53,,max-verstappen,,1,25,pirelli,1
+1:20:29.957,ferrari,1,ferrari,,+2.446,53,+2.446,charles-leclerc,,2,18,pirelli,16
+1:20:30.916,mercedes,2,mercedes,,+0.959,53,+3.405,george-russell,,3,15,pirelli,63
+1:20:32.572,ferrari,18,ferrari,,+1.656,53,+5.061,carlos-sainz-jr,,4,12,pirelli,55
+1:20:32.891,mercedes,19,mercedes,,+0.319,53,+5.380,lewis-hamilton,,5,10,pirelli,44
+1:20:33.602,red-bull,13,rbpt,,+0.711,53,+6.091,sergio-perez,,6,9,pirelli,11
+1:20:33.718,mclaren,3,mercedes,,+0.116,53,+6.207,lando-norris,,7,6,pirelli,4
+1:20:33.907,alphatauri,5,rbpt,,+0.189,53,+6.396,pierre-gasly,,8,4,pirelli,10
+1:20:34.633,williams,8,mercedes,,+0.726,53,+7.122,nyck-de-vries,,9,2,pirelli,45
+1:20:35.421,alfa-romeo,9,ferrari,,+0.788,53,+7.910,guanyu-zhou,,10,1,pirelli,24
+1:20:35.834,alpine,14,renault,,+0.413,53,+8.323,esteban-ocon,,11,,pirelli,31
+1:20:36.060,haas,17,ferrari,,+0.226,53,+8.549,mick-schumacher,,12,,pirelli,47
+,alfa-romeo,15,ferrari,,,52,+1 lap,valtteri-bottas,,13,,pirelli,77
+,alphatauri,20,rbpt,,,52,+1 lap,yuki-tsunoda,,14,,pirelli,22
+,williams,10,mercedes,,,52,+1 lap,nicholas-latifi,,15,,pirelli,6
+,haas,16,ferrari,,,52,+1 lap,kevin-magnussen,,16,,pirelli,20
+,mclaren,4,mercedes,,,45,,daniel-ricciardo,Oil leak,DNF,,pirelli,3
+,aston-martin,12,mercedes,,,39,,lance-stroll,Engine,DNF,,pirelli,18
+,alpine,6,renault,,,31,,fernando-alonso,Water pressure,DNF,,pirelli,14
+,aston-martin,11,mercedes,,,10,,sebastian-vettel,Engine,DNF,,pirelli,5

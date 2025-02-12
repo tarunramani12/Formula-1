@@ -1,0 +1,2 @@
+id,round,date,time,grandPrixId,officialName,qualifyingFormat,sprintQualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,freePractice1Date,freePractice1Time,sprintQualifyingDate,sprintQualifyingTime,sprintRaceDate,sprintRaceTime,qualifyingDate,qualifyingTime
+1107,6,2024-05-05,1200,miami,Formula 1 Crypto.com Miami Grand Prix 2024,KNOCKOUT,SPRINT_SHOOTOUT,miami,STREET,ANTI_CLOCKWISE,5.412,19,57,308.326,2024-05-03,990,2024-05-03,1230,2024-05-04,960,2024-05-04,1200

@@ -1,0 +1,6 @@
+constructorId,engineManufacturerId,percentage,driverId,position,tyreManufacturerId,driverNumber
+mercedes,mercedes,14.8,lewis-hamilton,1,pirelli,44
+red-bull,rbpt,13.6,max-verstappen,2,pirelli,1
+aston-martin,mercedes,13.1,sebastian-vettel,3,pirelli,5
+red-bull,rbpt,10,sergio-perez,4,pirelli,11
+alphatauri,rbpt,9.3,pierre-gasly,5,pirelli,10

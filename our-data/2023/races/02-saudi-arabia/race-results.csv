@@ -1,0 +1,21 @@
+time,constructorId,gridPosition,engineManufacturerId,timePenalty,interval,laps,gap,driverId,reasonRetired,position,points,tyreManufacturerId,driverNumber
+1:21:14.894,red-bull,1,honda-rbpt,,,50,,sergio-perez,,1,25,pirelli,11
+1:21:20.249,red-bull,15,honda-rbpt,,+5.355,50,+5.355,max-verstappen,,2,19,pirelli,1
+1:21:35.622,aston-martin,2,mercedes,,+15.373,50,+20.728,fernando-alonso,,3,15,pirelli,14
+1:21:40.760,mercedes,3,mercedes,,+5.138,50,+25.866,george-russell,,4,12,pirelli,63
+1:21:45.959,mercedes,7,mercedes,,+5.199,50,+31.065,lewis-hamilton,,5,10,pirelli,44
+1:21:50.770,ferrari,4,ferrari,,+4.811,50,+35.876,carlos-sainz-jr,,6,8,pirelli,55
+1:21:58.056,ferrari,12,ferrari,,+7.286,50,+43.162,charles-leclerc,,7,6,pirelli,16
+1:22:07.726,alpine,6,renault,,+9.670,50,+52.832,esteban-ocon,,8,4,pirelli,31
+1:22:09.641,alpine,9,renault,,+1.915,50,+54.747,pierre-gasly,,9,2,pirelli,10
+1:22:19.720,haas,13,ferrari,,+10.079,50,+1:04.826,kevin-magnussen,,10,1,pirelli,20
+1:22:22.388,alphatauri,16,honda-rbpt,,+2.668,50,+1:07.494,yuki-tsunoda,,11,,pirelli,22
+1:22:25.482,haas,10,ferrari,,+3.094,50,+1:10.588,nico-hulkenberg,,12,,pirelli,27
+1:22:30.954,alfa-romeo,11,ferrari,,+5.472,50,+1:16.060,guanyu-zhou,,13,,pirelli,24
+1:22:32.372,alphatauri,18,honda-rbpt,,+1.418,50,+1:17.478,nyck-de-vries,,14,,pirelli,21
+1:22:39.915,mclaren,8,mercedes,,+7.543,50,+1:25.021,oscar-piastri,,15,,pirelli,81
+1:22:41.187,williams,20,mercedes,,+1.272,50,+1:26.293,logan-sargeant,,16,,pirelli,2
+1:22:41.339,mclaren,19,mercedes,,+0.152,50,+1:26.445,lando-norris,,17,,pirelli,4
+,alfa-romeo,14,ferrari,,,49,+1 lap,valtteri-bottas,,18,,pirelli,77
+,williams,17,mercedes,,,27,,alexander-albon,Brakes,DNF,,pirelli,23
+,aston-martin,5,mercedes,,,16,,lance-stroll,Engine,DNF,,pirelli,18

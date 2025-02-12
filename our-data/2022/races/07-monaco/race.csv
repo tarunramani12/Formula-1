@@ -1,0 +1,2 @@
+id,round,date,grandPrixId,officialName,qualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,scheduledLaps,scheduledDistance
+1064,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,KNOCKOUT,monaco,STREET,CLOCKWISE,3.337,19,64,213.568,78,260.286

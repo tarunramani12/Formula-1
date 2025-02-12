@@ -1,0 +1,2 @@
+id,round,date,time,grandPrixId,officialName,qualifyingFormat,circuitId,circuitType,direction,courseLength,turns,laps,distance,freePractice1Date,freePractice1Time,freePractice2Date,freePractice2Time,freePractice3Date,freePractice3Time,qualifyingDate,qualifyingTime
+1111,10,2024-06-23,780,spain,Formula 1 Aramco Gran Premio de España 2024,KNOCKOUT,catalunya,RACE,CLOCKWISE,4.657,14,66,307.236,2024-06-21,690,2024-06-21,900,2024-06-22,630,2024-06-22,840

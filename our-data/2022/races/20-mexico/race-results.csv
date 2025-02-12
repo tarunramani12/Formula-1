@@ -1,0 +1,21 @@
+time,constructorId,gridPosition,engineManufacturerId,timePenalty,interval,laps,gap,driverId,reasonRetired,position,points,tyreManufacturerId,driverNumber
+1:38:36.729,red-bull,1,rbpt,,,71,,max-verstappen,,1,25,pirelli,1
+1:38:51.915,mercedes,3,mercedes,,+15.186,71,+15.186,lewis-hamilton,,2,18,pirelli,44
+1:38:54.826,red-bull,4,rbpt,,+2.911,71,+18.097,sergio-perez,,3,15,pirelli,11
+1:39:26.160,mercedes,2,mercedes,,+31.334,71,+49.431,george-russell,,4,13,pirelli,63
+1:39:34.852,ferrari,5,ferrari,,+8.692,71,+58.123,carlos-sainz-jr,,5,10,pirelli,55
+1:39:45.503,ferrari,7,ferrari,,+10.651,71,+1:08.774,charles-leclerc,,6,8,pirelli,16
+,mclaren,11,mercedes,10.000,,70,+1 lap,daniel-ricciardo,,7,6,pirelli,3
+,alpine,10,renault,,,70,+1 lap,esteban-ocon,,8,4,pirelli,31
+,mclaren,8,mercedes,,,70,+1 lap,lando-norris,,9,2,pirelli,4
+,alfa-romeo,6,ferrari,,,70,+1 lap,valtteri-bottas,,10,1,pirelli,77
+,alphatauri,14,rbpt,,,70,+1 lap,pierre-gasly,,11,,pirelli,10
+,williams,17,mercedes,,,70,+1 lap,alexander-albon,,12,,pirelli,23
+,alfa-romeo,12,ferrari,,,70,+1 lap,guanyu-zhou,,13,,pirelli,24
+,aston-martin,16,mercedes,,,70,+1 lap,sebastian-vettel,,14,,pirelli,5
+,aston-martin,20,mercedes,,,70,+1 lap,lance-stroll,,15,,pirelli,18
+,haas,15,ferrari,,,70,+1 lap,mick-schumacher,,16,,pirelli,47
+,haas,19,ferrari,,,70,+1 lap,kevin-magnussen,,17,,pirelli,20
+,williams,18,mercedes,,,69,+2 laps,nicholas-latifi,,18,,pirelli,6
+,alpine,9,renault,,,63,,fernando-alonso,Engine,19,,pirelli,14
+,alphatauri,13,rbpt,,,50,,yuki-tsunoda,Collision damage,DNF,,pirelli,22
