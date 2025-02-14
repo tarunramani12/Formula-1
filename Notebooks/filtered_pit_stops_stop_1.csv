@@ -1,0 +1,17 @@
+stop,driverId,constructorId,pit_stop_lap_position,pit_stop_lap,pit_stop_1,pit_stop_2,pit_stop_3
+1,romain-grosjean,haas,1,20,20,0,0
+1,kimi-raikkonen,alfa-romeo,2,24,24,0,0
+1,antonio-giovinazzi,alfa-romeo,3,25,25,0,0
+1,george-russell,williams,4,25,25,0,0
+1,valtteri-bottas,mercedes,5,26,26,0,0
+1,lewis-hamilton,mercedes,6,26,26,0,0
+1,alexander-albon,red-bull,7,26,26,0,0
+1,lando-norris,mclaren,8,26,26,0,0
+1,sergio-perez,racing-point,9,26,26,0,0
+1,charles-leclerc,ferrari,10,26,26,0,0
+1,carlos-sainz-jr,mclaren,11,26,26,0,0
+1,sebastian-vettel,ferrari,12,26,26,0,0
+1,pierre-gasly,alphatauri,13,26,26,0,0
+1,daniil-kvyat,alphatauri,14,26,26,0,0
+1,esteban-ocon,renault,15,26,26,0,0
+1,nicholas-latifi,williams,16,26,26,0,0
